@@ -1,7 +1,7 @@
 package main
 
 import ("fmt"
-		"./model"
+		"curso_de_go/fundamentos/mapas/model"
 )
 
 var cache map[string]model.Imovel

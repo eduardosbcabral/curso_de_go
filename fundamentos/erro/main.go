@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"encoding/json"
-	"./model"
+	"curso_de_go/fundamentos/erro/model"
 )
 
 func main() {
